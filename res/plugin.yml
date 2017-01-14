@@ -1,5 +1,5 @@
 name: GreifControl
-version: 0.0.2
+version: 0.1.0
 description: Reduces the impact of greifing
 author: acomputerdog
 main: net.acomputerdog.greifcontrol.PluginGreifControl
